@@ -485,7 +485,6 @@ class AWSIncidentManagerHelper:
 def main():
     """Main function to process the configurations and make real AWS API calls"""
     print("Starting AWS Incident Manager Configuration Script...")
-    print(f"Version: 2.0 - Comprehensive Debugging for Engagement Time Tracking")
 
     # Initialize helper
     try:
