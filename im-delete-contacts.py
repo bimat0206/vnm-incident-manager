@@ -20,7 +20,10 @@ from typing import Dict, List, Optional, Set
 # 1.1: CONTACTS TO DELETE
 # ------------------------------------------------------------------------------
 CONTACTS_TO_DELETE = [
-    "asdasd",
+    "lmhung",
+    "dnkhanh",
+    "ntquy",
+    "dvcong"
     # Add more contact aliases below
     # "johndoe",
     # "janedoe",
